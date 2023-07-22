@@ -1,0 +1,9 @@
+[Unit]
+Description=Service that subscribes to MQTT and publish results to Azure IOT Hub 
+After=multi-user.target
+[Service]
+Type=simple
+Restart=always
+ExecStart=/usr/bin/python3 /home/pi/mqtt2azure.py 
+[Install]
+WantedBy=multi-user.target
