@@ -22,8 +22,8 @@ chmod +x install.sh
 <br><br>
 ### Content:<br><br>
 
-	- Python 3<br>
-	- PIP<br>
-	- RTL_433 	(https://www.sensorsiot.org/install-rtl_433-for-a-sdr-rtl-dongle-on-a-raspberry-pi/)<br>
-	- MQTT BROKER (https://www.emqx.com/en/blog/how-to-use-mqtt-in-python)<br>
-	- AZURE IOT 	(https://dev.to/nihalbaig0/stream-data-to-azure-iot-hub-from-raspberry-pi-1ed3)<br>
+	- Python 3
+	- PIP
+	- RTL_433 	https://www.sensorsiot.org/install-rtl_433-for-a-sdr-rtl-dongle-on-a-raspberry-pi/
+	- MQTT BROKER   https://www.emqx.com/en/blog/how-to-use-mqtt-in-python
+	- AZURE IOT 	https://dev.to/nihalbaig0/stream-data-to-azure-iot-hub-from-raspberry-pi-1ed3
